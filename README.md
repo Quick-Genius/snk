@@ -1,32 +1,24 @@
 # snk
 
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
-[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
-[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Quick-Genius/snk/main.yml?label=action&style=flat-square)](https://github.com/Quick-Genius/snk/actions/workflows/main.yml)
+[![GitHub release](https://img.shields.io/github/release/Quick-Genius/snk.svg?style=flat-square)](https://github.com/Quick-Genius/snk/releases/latest)
+[![GitHub marketplace](https://img.shields.io/badge/marketplace-gopher-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-gopher-animation-from-github-contribution-grid)
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
-Generates a snake game from a github user contributions graph
+Generates a gopher animation from a github user contributions graph
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
   <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    alt="github contribution grid gopher animation"
+    src="https://raw.githubusercontent.com/Quick-Genius/snk/output/gopher.svg"
   />
 </picture>
 
 Pull a github user's contribution graph.
-Make it a snake Game, generate a snake path where the cells get eaten in an orderly fashion.
+Make it a gopher animation, generate a gopher path where the cells get eaten in an orderly fashion.
 
-Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) image. Colors can [be](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-ocean.svg) [customized](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-grey.svg).
+Generate an [svg](https://github.com/Quick-Genius/snk/raw/output/gopher.svg) image.
 
 Available as github action. It can automatically generate a new image each day. Which makes for great [github profile readme](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
 
@@ -35,7 +27,7 @@ Available as github action. It can automatically generate a new image each day. 
 ### **github action**
 
 ```yaml
-- uses: Platane/snk@v3
+- uses: Quick-Genius/snk@v3
   with:
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user
@@ -46,22 +38,22 @@ Available as github action. It can automatically generate a new image each day. 
     #
     #  supported options:
     #  - palette:           A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake:       Color of the snake
+    #  - color_gopher:       Color of the gopher
     #  - color_dots:        Coma separated list of dots color.
     #                       The first one is 0 contribution, then it goes from the low contribution to the highest.
     #                       Exactly 5 colors are expected.
     #  - color_background:  Color of the background (for gif only)
     outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
+      dist/github-gopher.svg
+      dist/github-gopher-dark.svg?palette=github-dark
+      dist/ocean.gif?color_gopher=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
 ```
 
-[example with cron job](https://github.com/Platane/Platane/blob/master/.github/workflows/main.yml#L26-L33)
+[example with cron job](https://github.com/Quick-Genius/snk/blob/main/.github/workflows/gopher.yml)
 
 ### **svg**
 
-If you are only interested in generating a svg (not a gif), consider using this faster action: `uses: Platane/snk/svg-only@v3`
+If you are only interested in generating a svg (not a gif), consider using this faster action: `uses: Quick-Genius/snk/svg-only@v3`
 
 ### **dark mode**
 
@@ -71,19 +63,19 @@ For **dark mode** support on github, use this [special syntax](https://docs.gith
 
 ```html
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-gopher-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-gopher.svg" />
+  <img alt="github-gopher" src="github-gopher.svg" />
 </picture>
 ```
 
 ### **interactive demo**
 
-<a href="https://platane.github.io/snk">
+<a href="https://Quick-Genius.github.io/snk">
   <img height="300px" src="https://user-images.githubusercontent.com/1659820/121798244-7c86d700-cc25-11eb-8c1c-b8e65556ac0d.gif" ></img>
 </a>
 
-[platane.github.io/snk](https://platane.github.io/snk)
+[Quick-Genius.github.io/snk](https://Quick-Genius.github.io/snk)
 
 ### **local**
 

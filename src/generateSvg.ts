@@ -9,8 +9,8 @@ import { getHeadX, getHeadY } from "@snk/types/snake";
 
 // Default parameters
 const sizeCell = 16;
-const gopherSize = 28; // ~24-32px
-const animDurationMs = 12000; // 12s total duration
+const gopherSize = 42; // Larger gopher
+const animDurationMs = 35000; // 35s total duration (slower)
 
 const userName = process.env.GITHUB_USER_NAME || process.argv[2];
 if (!userName) {
@@ -156,13 +156,13 @@ async function main() {
   }
   
   // Adding the Gopher (bounce effect + motion)
-  // Gopher bounce animation: scale up and down slightly (duration 0.3s)
+  // Gopher bounce animation: scale up and down slightly (duration 0.6s)
   svg += `  <g>
-    <animateMotion dur="${animDurationMs/1000}s" repeatCount="indefinite">
+    <animateMotion dur="${animDurationMs/1000}s" repeatCount="indefinite" rotate="auto">
       <mpath href="#gopher-path" />
     </animateMotion>
     <g>
-      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0" dur="0.4s" repeatCount="indefinite" />
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-4; 0,0" dur="0.6s" repeatCount="indefinite" />
       <image href="${gopherDataUri}" width="${gopherSize}" height="${gopherSize}" x="-${gopherSize/2}" y="-${gopherSize/2}" />
     </g>
   </g>\n`;

@@ -38,7 +38,10 @@ async function main() {
   console.log("Computing best route...");
   const snake = snake4;
   const chain = getBestRoute(grid, snake)!;
-  chain.push(...getPathToPose(chain.slice(-1)[0], snake)!);
+  const pathToPose = getPathToPose(chain.slice(-1)[0], snake);
+  if (pathToPose) {
+    chain.push(...pathToPose);
+  }
   
   const totalLength = chain.length;
   console.log(`Route computed. Length: ${totalLength}`);
@@ -146,19 +149,20 @@ async function main() {
   
   // Read gopher.png
   const gopherPath = path.join(__dirname, "../assets/gopher.png");
+  let gopherDataUri: string;
   if (!fs.existsSync(gopherPath)) {
       console.warn("assets/gopher.png not found! Using a placeholder...");
       // A fallback transparent 1x1 pixel image
-      var gopherDataUri = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7";
+      gopherDataUri = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7";
   } else {
       const gopherB64 = fs.readFileSync(gopherPath).toString("base64");
-      var gopherDataUri = "data:image/png;base64," + gopherB64;
+      gopherDataUri = "data:image/png;base64," + gopherB64;
   }
   
   // Adding the Gopher (bounce effect + motion)
   // Gopher bounce animation: scale up and down slightly (duration 0.6s)
   svg += `  <g>
-    <animateMotion dur="${animDurationMs/1000}s" repeatCount="indefinite" rotate="auto">
+    <animateMotion dur="${animDurationMs/1000}s" repeatCount="indefinite">
       <mpath href="#gopher-path" />
     </animateMotion>
     <g>

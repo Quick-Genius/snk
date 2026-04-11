@@ -22,6 +22,7 @@ if (!userName) {
 // Actually we can just use the provided functions
 
 async function main() {
+  console.log("Gopher Generator v1.1 starting...");
   console.log(`Fetching contributions for ${userName}...`);
   const cells = await getGithubUserContribution(userName, { githubToken: process.env.GITHUB_TOKEN || "" });
   
@@ -151,7 +152,7 @@ async function main() {
       var gopherDataUri = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7";
   } else {
       const gopherB64 = fs.readFileSync(gopherPath).toString("base64");
-      var gopherDataUri = `data:image/png;base64,${gopherB64}`;
+      var gopherDataUri = "data:image/png;base64," + gopherB64;
   }
   
   // Adding the Gopher (bounce effect + motion)

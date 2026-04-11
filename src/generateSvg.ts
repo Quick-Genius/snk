@@ -151,7 +151,7 @@ async function main() {
       var gopherDataUri = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7";
   } else {
       const gopherB64 = fs.readFileSync(gopherPath).toString("base64");
-      var gopherDataUri = \`data:image/png;base64,\${gopherB64}\`;
+      var gopherDataUri = `data:image/png;base64,${gopherB64}`;
   }
   
   // Adding the Gopher (bounce effect + motion)

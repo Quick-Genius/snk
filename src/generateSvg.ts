@@ -10,7 +10,7 @@ import { getHeadX, getHeadY } from "@snk/types/snake";
 // Default parameters
 const sizeCell = 16;
 const gopherSize = 42; // Larger gopher
-const animDurationMs = 35000; // 120s total duration (very slow)
+const animDurationMs = 45000; // 120s total duration (very slow)
 
 const userName = process.env.GITHUB_USER_NAME || process.argv[2];
 if (!userName) {

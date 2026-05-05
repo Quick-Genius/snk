@@ -1,0 +1,1042 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="192" viewBox="-16 -32 880 192">
+<style>
+    .cell { rx: 3px; ry: 3px; stroke-width: 1px; stroke: rgba(27,31,35,0.06); }
+    @media (prefers-color-scheme: dark) {
+      .cell { stroke: rgba(255,255,255,0.05); }
+    }
+  </style>
+<style>
+    :root {
+      --c0:  #ebedf0;
+      --c1:  #9be9a8;
+      --c2:  #40c463;
+      --c3:  #30a14e;
+      --c4:  #216e39;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --c0:  #161b22;
+        --c1:  #0e4429;
+        --c2:  #006d32;
+        --c3:  #26a641;
+        --c4:  #39d353;
+      }
+    }
+  </style>
+  <g transform="translate(8, 8)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="0.10891089108910891s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="0.10891089108910891s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(8, 24)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c4)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="54.01980198019802s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="54.01980198019802s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="1" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="1" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="1" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="1" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(8, 104)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="2.0693069306930694s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="2.0693069306930694s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="17" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="17" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="17" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="17" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="17" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="17" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="17" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="33" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(40, 24)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c3)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="40.2970297029703s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="40.2970297029703s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(40, 40)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="2.722772277227723s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="2.722772277227723s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="33" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="33" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(40, 88)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="1.7425742574257426s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="1.7425742574257426s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="33" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="49" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="49" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="49" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="49" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="49" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="49" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(56, 104)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c2)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="34.851485148514854s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="34.851485148514854s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(72, 8)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="0.5445544554455446s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="0.5445544554455446s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(72, 24)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="0.6534653465346535s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="0.6534653465346535s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="65" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="65" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(72, 72)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="1.4158415841584158s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="1.4158415841584158s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(72, 88)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c2)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="34.633663366336634s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="34.633663366336634s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(72, 104)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="11.653465346534652s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="11.653465346534652s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="81" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(88, 24)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c3)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="39.97029702970297s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="39.97029702970297s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(88, 40)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="0.8712871287128713s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="0.8712871287128713s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="81" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(88, 72)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="1.306930693069307s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="1.306930693069307s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(88, 88)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="11.435643564356434s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="11.435643564356434s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(88, 104)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="11.544554455445544s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="11.544554455445544s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(104, 8)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="3.376237623762376s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="3.376237623762376s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="97" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(104, 40)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="0.9801980198019801s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="0.9801980198019801s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(104, 56)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="1.0891089108910892s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="1.0891089108910892s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(104, 72)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="1.1980198019801978s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="1.1980198019801978s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(104, 88)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="11.326732673267326s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="11.326732673267326s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="97" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="113" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="113" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="113" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="113" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="113" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(120, 88)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c3)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="41.27722772277228s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="41.27722772277228s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(120, 104)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="11.10891089108911s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="11.10891089108911s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(136, 8)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="3.5940594059405946s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="3.5940594059405946s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="129" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="129" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="129" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="129" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="129" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="129" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="145" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="145" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(152, 40)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="3.9207920792079203s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="3.9207920792079203s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="145" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(152, 72)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c2)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="33.98019801980198s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="33.98019801980198s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="145" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="145" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="161" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="161" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="161" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="161" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="161" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="161" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(168, 104)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="10.782178217821782s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="10.782178217821782s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="177" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="177" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="177" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="177" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="177" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="177" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="177" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="193" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="193" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="193" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="193" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(200, 72)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="10.346534653465348s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="10.346534653465348s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(200, 88)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="10.455445544554456s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="10.455445544554456s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(200, 104)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c2)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="33.43564356435643s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="33.43564356435643s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="209" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(216, 24)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="13.396039603960396s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="13.396039603960396s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(216, 40)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="4.356435643564357s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="4.356435643564357s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="209" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="209" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="209" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="209" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="225" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="225" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(232, 40)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="4.465346534653466s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="4.465346534653466s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="225" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(232, 72)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="10.12871287128713s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="10.12871287128713s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="225" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(232, 104)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="9.910891089108912s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="9.910891089108912s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="241" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(248, 24)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="13.613861386138613s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="13.613861386138613s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="241" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="241" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="241" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="241" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="241" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(264, 8)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c2)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="36.92079207920792s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="36.92079207920792s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="257" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(264, 40)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="4.683168316831683s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="4.683168316831683s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(264, 56)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c4)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="52.059405940594054s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="52.059405940594054s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="257" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(264, 88)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c2)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="32.89108910891089s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="32.89108910891089s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="257" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="273" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="273" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="273" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(280, 56)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="5.118811881188119s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="5.118811881188119s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="273" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(280, 88)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c2)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="32.78217821782178s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="32.78217821782178s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="273" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="289" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="289" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(296, 40)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="4.9009900990099s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="4.9009900990099s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="289" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="289" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(296, 88)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c2)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="32.67326732673267s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="32.67326732673267s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="289" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="305" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="305" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="305" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="305" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(312, 72)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="5.445544554455446s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="5.445544554455446s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(312, 88)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="9.257425742574258s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="9.257425742574258s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(312, 104)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="9.366336633663366s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="9.366336633663366s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(328, 8)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c2)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="37.35643564356435s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="37.35643564356435s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="321" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="321" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="321" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(328, 72)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="5.554455445544555s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="5.554455445544555s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="321" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="321" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="337" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(344, 24)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="5.99009900990099s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="5.99009900990099s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(344, 40)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="5.881188118811881s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="5.881188118811881s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(344, 56)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="5.772277227722772s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="5.772277227722772s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="337" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(344, 88)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="9.03960396039604s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="9.03960396039604s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="337" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="353" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="353" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="353" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="353" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="353" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="353" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(360, 104)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c2)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="32.12871287128713s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="32.12871287128713s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(376, 8)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c3)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="37.68316831683169s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="37.68316831683169s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(376, 24)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c4)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="51.079207920792086s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="51.079207920792086s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(376, 40)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="6.316831683168317s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="6.316831683168317s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="369" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="369" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="369" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="369" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="385" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="385" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="385" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="385" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="385" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="385" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="385" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="401" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="401" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="401" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(408, 56)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="6.643564356435643s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="6.643564356435643s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="401" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="401" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="401" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="417" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(424, 24)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="7.405940594059406s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="7.405940594059406s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="417" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="417" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(424, 72)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c2)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="31.475247524752476s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="31.475247524752476s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="417" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(424, 104)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c2)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="31.693069306930692s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="31.693069306930692s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(440, 8)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="7.188118811881189s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="7.188118811881189s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(440, 24)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="7.079207920792079s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="7.079207920792079s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(440, 40)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="6.97029702970297s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="6.97029702970297s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="433" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="433" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="433" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(440, 104)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="8.05940594059406s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="8.05940594059406s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="449" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="449" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="449" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="449" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="449" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="449" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="449" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="465" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="465" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="465" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="465" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="465" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="465" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="465" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="481" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="481" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="481" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="481" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="481" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="481" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="481" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="497" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="497" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="497" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="497" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="497" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="497" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="497" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="513" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="513" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="513" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="513" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="513" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="513" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="513" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="529" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="529" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="529" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="529" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="529" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="529" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="529" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="545" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="545" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="545" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="545" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="545" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="545" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="545" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="561" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="561" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="561" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="561" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="561" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="561" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="561" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="577" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="577" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="577" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="577" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="577" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="577" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="577" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="593" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(600, 24)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="16.22772277227723s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="16.22772277227723s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(600, 40)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="16.11881188118812s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="16.11881188118812s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(600, 56)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="17.970297029702973s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="17.970297029702973s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(600, 72)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="17.861386138613863s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="17.861386138613863s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(600, 88)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="17.752475247524753s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="17.752475247524753s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(600, 104)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="25.92079207920792s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="25.92079207920792s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="609" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="609" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(616, 40)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c2)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="27.33663366336634s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="27.33663366336634s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(616, 56)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="18.07920792079208s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="18.07920792079208s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(616, 72)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c2)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="26.247524752475243s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="26.247524752475243s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(616, 88)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="17.643564356435643s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="17.643564356435643s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="609" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="625" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="625" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="625" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="625" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(632, 72)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c2)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="26.356435643564357s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="26.356435643564357s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(632, 88)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="17.534653465346533s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="17.534653465346533s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(632, 104)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c3)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="44.871287128712865s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="44.871287128712865s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="641" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(648, 24)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="16.554455445544555s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="16.554455445544555s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="641" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(648, 56)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c2)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="26.574257425742573s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="26.574257425742573s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="641" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(648, 88)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="17.425742574257427s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="17.425742574257427s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="641" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="657" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(664, 24)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c2)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="26.900990099009903s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="26.900990099009903s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(664, 40)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="16.77227722772277s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="16.77227722772277s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(664, 56)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="17.099009900990097s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="17.099009900990097s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(664, 72)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="17.207920792079207s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="17.207920792079207s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(664, 88)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="17.316831683168317s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="17.316831683168317s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="657" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="673" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="673" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(680, 40)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="16.88118811881188s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="16.88118811881188s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="673" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="673" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="673" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(680, 104)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="25.15841584158416s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="25.15841584158416s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="689" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="689" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="689" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="689" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="689" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="689" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(696, 104)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="25.049504950495052s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="25.049504950495052s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(712, 8)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="19.495049504950494s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="19.495049504950494s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(712, 24)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="19.6039603960396s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="19.6039603960396s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="705" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="705" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(712, 72)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="19.93069306930693s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="19.93069306930693s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(712, 88)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="20.03960396039604s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="20.03960396039604s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(712, 104)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="24.940594059405942s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="24.940594059405942s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(728, 8)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="19.386138613861384s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="19.386138613861384s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(728, 24)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="19.277227722772277s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="19.277227722772277s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(728, 40)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="18.950495049504948s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="18.950495049504948s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="721" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="721" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(728, 88)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="20.14851485148515s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="20.14851485148515s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="721" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="737" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(744, 24)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="19.168316831683164s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="19.168316831683164s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="737" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(744, 56)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="23.74257425742574s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="23.74257425742574s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(744, 72)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c3)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="45.85148514851485s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="45.85148514851485s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(744, 88)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="20.25742574257426s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="20.25742574257426s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(744, 104)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c4)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="48.02970297029703s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="48.02970297029703s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(760, 8)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="23.08910891089109s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="23.08910891089109s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="753" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="753" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(760, 56)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="23.633663366336634s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="23.633663366336634s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(760, 72)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="24.178217821782177s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="24.178217821782177s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(760, 88)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="20.366336633663366s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="20.366336633663366s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(760, 104)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="24.396039603960396s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="24.396039603960396s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="769" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(776, 24)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="23.306930693069305s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="23.306930693069305s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(776, 40)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="23.415841584158414s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="23.415841584158414s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(776, 56)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="23.524752475247524s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="23.524752475247524s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="769" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(776, 88)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="20.475247524752476s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="20.475247524752476s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(776, 104)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c2)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="28.861386138613863s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="28.861386138613863s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="785" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(792, 24)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c3)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="47.15841584158416s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="47.15841584158416s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="785" y="33" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="785" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(792, 72)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="20.693069306930695s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="20.693069306930695s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(792, 88)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c3)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="46.28712871287129s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="46.28712871287129s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(792, 104)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c4)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="47.7029702970297s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="47.7029702970297s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="801" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="801" y="17" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(808, 40)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="22.108910891089113s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="22.108910891089113s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="801" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="801" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="801" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="801" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(824, 8)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="21.782178217821784s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="21.782178217821784s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(824, 24)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c3)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="46.940594059405946s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="46.940594059405946s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(824, 40)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="22.21782178217822s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="22.21782178217822s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(824, 56)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c3)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="46.72277227722772s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="46.72277227722772s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(824, 72)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="20.91089108910891s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="20.91089108910891s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(824, 88)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="21.019801980198018s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="21.019801980198018s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="817" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="833" y="1" width="14" height="14" fill="var(--c0)" class="cell" />
+  <g transform="translate(840, 24)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="21.564356435643564s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="21.564356435643564s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g transform="translate(840, 40)">
+    <rect x="-7" y="-7" width="14" height="14" fill="var(--c1)" class="cell">
+      <animateTransform attributeName="transform" type="scale" values="1; 0.2; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="21.455445544554454s" dur="55s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1; 0.5; 0; 0" keyTimes="0; 0.1; 0.5; 1" begin="21.455445544554454s" dur="55s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <rect x="833" y="49" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="833" y="65" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="833" y="81" width="14" height="14" fill="var(--c0)" class="cell" />
+  <rect x="833" y="97" width="14" height="14" fill="var(--c0)" class="cell" />
+  <path id="gopher-path" d="M 8 -8 L 8 8 L 24 8 L 40 8 L 56 8 L 72 8 L 72 24 L 72 40 L 88 40 L 104 40 L 104 56 L 104 72 L 88 72 L 72 72 L 56 72 L 40 72 L 40 88 L 24 88 L 8 88 L 8 104 L 24 104 L 40 104 L 40 88 L 40 72 L 40 56 L 40 40 L 56 40 L 72 40 L 88 40 L 104 40 L 104 24 L 104 8 L 120 8 L 136 8 L 152 8 L 152 24 L 152 40 L 168 40 L 184 40 L 200 40 L 216 40 L 232 40 L 248 40 L 264 40 L 280 40 L 296 40 L 296 56 L 280 56 L 280 72 L 296 72 L 312 72 L 328 72 L 344 72 L 344 56 L 344 40 L 344 24 L 360 24 L 360 40 L 376 40 L 392 40 L 408 40 L 408 56 L 424 56 L 440 56 L 440 40 L 440 24 L 440 8 L 424 8 L 424 24 L 440 24 L 440 40 L 440 56 L 440 72 L 440 88 L 440 104 L 456 104 L 456 88 L 440 88 L 424 88 L 408 88 L 392 88 L 376 88 L 360 88 L 344 88 L 328 88 L 312 88 L 312 104 L 296 104 L 280 104 L 264 104 L 248 104 L 232 104 L 232 88 L 232 72 L 216 72 L 200 72 L 200 88 L 184 88 L 168 88 L 168 104 L 152 104 L 136 104 L 120 104 L 104 104 L 104 88 L 88 88 L 88 104 L 72 104 L 72 120 L 88 120 L 104 120 L 120 120 L 136 120 L 152 120 L 168 120 L 184 120 L 200 120 L 216 120 L 216 104 L 216 88 L 216 72 L 216 56 L 216 40 L 216 24 L 232 24 L 248 24 L 264 24 L 280 24 L 296 24 L 312 24 L 328 24 L 344 24 L 360 24 L 360 40 L 376 40 L 392 40 L 408 40 L 424 40 L 440 40 L 456 40 L 472 40 L 488 40 L 504 40 L 520 40 L 536 40 L 552 40 L 568 40 L 584 40 L 600 40 L 600 24 L 616 24 L 632 24 L 648 24 L 648 40 L 664 40 L 680 40 L 680 56 L 664 56 L 664 72 L 664 88 L 648 88 L 632 88 L 616 88 L 600 88 L 600 72 L 600 56 L 616 56 L 632 56 L 632 40 L 648 40 L 664 40 L 680 40 L 696 40 L 712 40 L 728 40 L 744 40 L 744 24 L 728 24 L 728 8 L 712 8 L 712 24 L 712 40 L 712 56 L 712 72 L 712 88 L 728 88 L 744 88 L 760 88 L 776 88 L 776 72 L 792 72 L 808 72 L 824 72 L 824 88 L 840 88 L 840 72 L 840 56 L 840 40 L 840 24 L 840 8 L 824 8 L 808 8 L 808 24 L 808 40 L 824 40 L 840 40 L 840 24 L 840 8 L 824 8 L 808 8 L 792 8 L 776 8 L 760 8 L 760 24 L 776 24 L 776 40 L 776 56 L 760 56 L 744 56 L 744 40 L 760 40 L 760 56 L 760 72 L 760 88 L 760 104 L 760 120 L 744 120 L 728 120 L 728 104 L 712 104 L 696 104 L 680 104 L 680 88 L 664 88 L 648 88 L 632 88 L 616 88 L 600 88 L 600 104 L 616 104 L 616 88 L 616 72 L 632 72 L 648 72 L 648 56 L 664 56 L 664 40 L 664 24 L 648 24 L 632 24 L 616 24 L 616 40 L 632 40 L 648 40 L 664 40 L 680 40 L 696 40 L 712 40 L 728 40 L 744 40 L 760 40 L 776 40 L 776 56 L 776 72 L 776 88 L 776 104 L 760 104 L 760 88 L 744 88 L 728 88 L 728 72 L 712 72 L 696 72 L 680 72 L 664 72 L 648 72 L 632 72 L 616 72 L 600 72 L 584 72 L 568 72 L 552 72 L 536 72 L 520 72 L 504 72 L 488 72 L 472 72 L 456 72 L 440 72 L 424 72 L 424 88 L 424 104 L 408 104 L 392 104 L 376 104 L 360 104 L 360 88 L 344 88 L 328 88 L 312 88 L 296 88 L 280 88 L 264 88 L 248 88 L 232 88 L 216 88 L 200 88 L 200 104 L 184 104 L 184 88 L 184 72 L 168 72 L 152 72 L 136 72 L 120 72 L 104 72 L 88 72 L 72 72 L 72 88 L 56 88 L 56 104 L 72 104 L 88 104 L 104 104 L 120 104 L 136 104 L 152 104 L 168 104 L 184 104 L 200 104 L 216 104 L 232 104 L 248 104 L 248 88 L 248 72 L 248 56 L 248 40 L 264 40 L 264 24 L 264 8 L 280 8 L 296 8 L 312 8 L 328 8 L 344 8 L 360 8 L 376 8 L 376 -8 L 360 -8 L 344 -8 L 328 -8 L 312 -8 L 296 -8 L 280 -8 L 264 -8 L 248 -8 L 232 -8 L 216 -8 L 200 -8 L 184 -8 L 168 -8 L 152 -8 L 136 -8 L 120 -8 L 104 -8 L 88 -8 L 88 8 L 88 24 L 72 24 L 56 24 L 40 24 L 40 40 L 56 40 L 72 40 L 88 40 L 104 40 L 120 40 L 120 56 L 120 72 L 120 88 L 136 88 L 152 88 L 168 88 L 184 88 L 200 88 L 216 88 L 232 88 L 248 88 L 264 88 L 280 88 L 296 88 L 312 88 L 328 88 L 344 88 L 360 88 L 376 88 L 392 88 L 408 88 L 424 88 L 440 88 L 456 88 L 472 88 L 488 88 L 504 88 L 520 88 L 536 88 L 552 88 L 568 88 L 584 88 L 600 88 L 616 88 L 632 88 L 632 104 L 648 104 L 664 104 L 680 104 L 696 104 L 712 104 L 728 104 L 728 88 L 744 88 L 744 72 L 760 72 L 776 72 L 792 72 L 792 88 L 808 88 L 824 88 L 824 72 L 824 56 L 824 40 L 824 24 L 808 24 L 792 24 L 792 40 L 792 56 L 792 72 L 792 88 L 792 104 L 776 104 L 760 104 L 744 104 L 744 88 L 744 72 L 744 56 L 744 40 L 744 24 L 728 24 L 712 24 L 696 24 L 680 24 L 664 24 L 648 24 L 632 24 L 616 24 L 600 24 L 584 24 L 568 24 L 552 24 L 536 24 L 520 24 L 504 24 L 488 24 L 472 24 L 456 24 L 440 24 L 424 24 L 408 24 L 392 24 L 376 24 L 360 24 L 344 24 L 328 24 L 312 24 L 296 24 L 280 24 L 264 24 L 264 40 L 264 56 L 248 56 L 248 40 L 248 24 L 232 24 L 216 24 L 200 24 L 184 24 L 168 24 L 152 24 L 136 24 L 120 24 L 104 24 L 88 24 L 72 24 L 56 24 L 40 24 L 24 24 L 8 24 L 8 8 L 24 8 L 40 8 L 56 8 L 56 -8 L 40 -8 L 24 -8 L 8 -8 " fill="none" stroke="transparent" />
+  <g>
+    <animateMotion dur="55s" repeatCount="indefinite">
+      <mpath href="#gopher-path" />
+    </animateMotion>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-4; 0,0" dur="0.6s" repeatCount="indefinite" />
+      <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfQAAAH0CAMAAAD8CC+4AAAC/VBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////e3t6en5/T1NSOj5A5ZGtBQkO7vLw0WmEAAQIeFRX816Vgq7c/b3c1LyddpbEpKitiY2NQRTjX19cMFBUqSk/GqoMREhMIDA1FeoNGR0gGCAlQj5kvMTJOi5WoqaksTVOulXNKg4142OdYnql21OPQ0NBWmqUXKCtzzt2AgYJyzNsVJCeEhYVxytlSkp2Jdl1wyNf306KQfGH/26hAc3szNDWtrq48a3Ph4eF52ek6Z29cXV531eUcHh8ZKy8JEBEmREkhHB1isL2+v798a1RCdn8jPkMEBgd5ensDBAWDcVj/3qotKCMgOD0eNDmhoaJGPjJkVkRsXkpJSkvnxZi3uLh2d3clJie/pH4qRkxSU1PevpLiwpU4TlL8/Pz/4Kzw8PDk5OSkpaW4nXqYmZkZGRvDp4HKrYXMzMyIiYqMjY18fX7xz5/19fVwcXJ0dXWhimxoaWlZTT/fwpbZuo9Vl6I2X2b/5rAPEBD6+vrq6ut+4vJeqLR62upboq6RkZJWWFhHf4gjHyBks8AUFRX///8lQUZhrbrryZp/4/QiO0Dz8/P/3aluxtQQHB5swtAuUljn5+enkHBKdX1MiJIOGBpqvswhIiNousibnJx31+ZmtsR00eDUtozExcVOT08fGhp0ZU/4+PgSHyIwVVx3eHgAAAB63OyymXcbMDS8oXx10uLIyMg5PD0CAwT61aTt7e7+2ac3ODmxsrKahGdsbW4sLi8+Ny3a29uUlJUYFhjPsokMDg4mIiDBwcE9P0C1tbVCTADkAAAAPnRSTlMAAQQHDBATFxwgJSkvMzg9QkhMUVdbX2Rqb3R7gISJkZicoKarrrG0uL7Cx83S1dja3uLl5ujr7/H09ff6/tcLgsAAAAAJcEhZcwAACxMAAAsT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" width="42" height="42" x="-21" y="-21" />
+    </g>
+  </g>
+</svg>
